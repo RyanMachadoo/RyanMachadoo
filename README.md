@@ -16,10 +16,9 @@
 
 <p align="left">
   💼 Ferramentas: 
-  <img align="center" alt="Andre-VSCode" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Andre-Git" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Andre-Figma" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Andre-Github" height="36" width="37" src="https://github.com/AndreWar10/AndreWar10/blob/main/src/kisspng-github-pages-logo-repository-fork-github-logo-1-magentys-5b69de71b51265.8586076615336648817417.png">
+  <img align="center" alt="Ryan-VSCODE" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Ryan-Git" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Ryan-Github" height="36" width="37" src=https://github.com/RyanMachadoo/blob/main/src/kisspng-github-pages-logo-repository-fork-github-logo-1-magentys-5b69de71b51265.8586076615336648817417.png">
 </p>
 
 <p align="left">
@@ -35,7 +34,7 @@
   </a>
    
   <a href="https://www.instagram.com/andre.guerra02/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/andre.guerra02/"/>
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/ryan_machadoo/"/>
   </a>
   
   <a href="https://api.whatsapp.com/send/?phone=5516982055294&text&app_absent=0" target="_blank">
