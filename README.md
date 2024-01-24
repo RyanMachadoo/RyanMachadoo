@@ -3,7 +3,7 @@
 <div style="display: inline_block">
   
 <p align="left"> 
-  🌎 Olá, meu nome é Ryan Machado. Sou <strong>Desenvolvedor</strong> e estudante de <strong>Flutter/Dart </strong>.
+  🌎 Olá, meu nome é Ryan Machado. Sou <strong>Desenvolvedor</strong> e estudante de <strong>Sistema Da Informação </strong>.
 </p>
 
 🦄 Habilidades : 
