@@ -1,6 +1,6 @@
 ## 👨‍💻 Ryan Machado  
 
-> Software Engineer
+> Desenvolvedor & Estudante de **Sistemas da Informação**  
 > Apaixonado por tecnologia, inovação e resolver problemas com código 🚀  
 
 ---
@@ -33,8 +33,8 @@
 ### 📊 GitHub Stats  
 <div align="center">
 
-![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanMachadoo&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanMachadoo&layout=compact&theme=tokyonight&hide_border=true)
+![Ryan GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanMachadoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanMachadoo&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
 </div>
 
