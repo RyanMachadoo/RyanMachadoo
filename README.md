@@ -1,43 +1,43 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+## 👨‍💻 Ryan Machado  
 
-<div style="display: inline_block">
+> Desenvolvedor & Estudante de **Sistemas da Informação**  
+> Apaixonado por tecnologia, inovação e resolver problemas com código 🚀  
+
+---
+
+### 🛠️ Stack Principal  
+<div align="center">
   
-<p align="left"> 
-  🌎 Olá, meu nome é Ryan Machado. Sou <strong>Desenvolvedor</strong> e estudante de <strong>Sistema Da Informação </strong>.
-</p>
-
-🦄 Habilidades : 
-  <img align="center" alt="Ryan-HTML" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ryan-CSS" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ryan-Js" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ryan-SQL" height="33" width="43" src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/09/com037-scaled.jpg">
-  <img align="center" alt="Ryan-Python" height="38" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-
-<p align="left">
-  💼 Ferramentas: 
-  <img align="center" alt="Ryan-VSCODE" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Ryan-Git" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Ryan-Github" height="36" width="37" src=https://github.com/RyanMachadoo/blob/main/src/kisspng-github-pages-logo-repository-fork-github-logo-1-magentys-5b69de71b51265.8586076615336648817417.png">
-</p>
-
-<p align="left">
-  💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
-</p>
+<img alt="NodeJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img alt="Express" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 </div>
 
-<p align="left">
-  
-  <a href="https://www.linkedin.com/in/ryan-machado-4805b119b/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/ryan-machado-4805b119b/"/>
-  </a>
-   
-  <a href="https://www.instagram.com/ryan_machadoo/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/ryan_machadoo/"/>
-  </a>
-  
-  <a href="https://api.whatsapp.com/send/?phone=5516982055294&text&app_absent=0" target="_blank">
-    <img src="https://img.shields.io/badge/-Whatsapp-1C1C1C?style=for-the-badge&logo=Whatsapp&logoColor=00FFFF&link=https://api.whatsapp.com/send/?phone=5516982055294&text&app_absent=0">
-  </a> 
-</p>
+---
+
+### ⚡ Ferramentas  
+<div align="center">
+<img alt="VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</div>
+
+---
+
+### 🌐 Onde me encontrar  
+<div align="center">
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://www.linkedin.com/in/ryan-machado-4805b119b/)  
+[![Instagram](https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF)](https://www.instagram.com/ryan_machadoo/)  
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-1C1C1C?style=for-the-badge&logo=whatsapp&logoColor=00FFFF)](https://api.whatsapp.com/send/?phone=5516982055294&text&app_absent=0)  
+
+</div>
+
+---
+💡 *"Menos é mais, mas código bem feito é tudo."*
