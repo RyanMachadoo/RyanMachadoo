@@ -46,8 +46,7 @@ Foco em alta disponibilidade, segurança, escalabilidade e cultura DevOps.
 ### 🎓 Formação Acadêmica  
 
 🎓 **Bacharelado em Sistemas de Informação**  
-🏫 *Universidade de Franca (UNIFRAN)*  
-📅 *Em andamento*  
+🏫 *Universidade de Franca (UNIFRAN)* 
 
 ---
 
