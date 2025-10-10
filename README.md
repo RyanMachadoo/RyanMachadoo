@@ -1,4 +1,4 @@
-<!-- ✨ Animated Header -->
+<!-- 🧠 Animated Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ryan+Machado+👋;Head+of+IT+at+Francauto+🚗;Software+Engineer+%F0%9F%92%BB;Node.js+%7C+TypeScript+%7C+React;Building+Scalable+Solutions+%E2%9A%A1" alt="Typing Animation" />
 </h1>
@@ -46,10 +46,11 @@ Minha missão é transformar processos complexos em **sistemas intuitivos e de a
 
 🎓 **Bacharelado em Sistemas de Informação**  
 🏫 *Universidade de Franca (UNIFRAN)*  
+📅 *Conclusão: Em andamento*  
 
 ---
 
-### ⚙️ Principais Tecnologias  
+### ⚙️ Stack Tecnológica  
 
 <div align="center">
 
@@ -65,32 +66,19 @@ Minha missão é transformar processos complexos em **sistemas intuitivos e de a
 
 ---
 
-### 🛠️ Ferramentas e Stack  
+### 📈 Métricas do GitHub  
+
+> Este painel mostra **todas** as suas contribuições (públicas e privadas), linguagens, PRs, commits, tempo de codificação e muito mais ⚡  
 
 <div align="center">
 
-<img alt="VSCode" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img alt="Git" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img alt="GitHub" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img alt="Nginx" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
-<img alt="Ubuntu" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+<img src="https://github.com/RyanMachadoo/RyanMachadoo/blob/main/github-metrics.svg" alt="Ryan Machado Metrics" />
 
 </div>
 
 ---
 
-### 📊 GitHub Insights  
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyanMachadoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanMachadoo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF)
-
-</div>
-
----
-
-### 🌐 Vamos nos Conectar  
+### 🌐 Conecte-se comigo  
 
 <div align="center">
 
